@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 #### About Me:
-- 🎓 B.Sc. in Computer Science, Jacobs University Bremen
-- 🎓 M.Sc. in Informatics, Technical University of Munich
-- 🤖 Software Engineer at Pentland Firth GmbH Munich
-- 🏐 💃 Hobbies : Volley & Dancing
-- 💻 ArchLinux
+- 🎓  B.Sc. in Computer Science, Jacobs University Bremen
+- 🎓  M.Sc. in Informatics, Technical University of Munich
+- 🤖  Software Engineer at Pentland Firth GmbH Munich
+- 🏐  Hobbies, Volleyball & Dancing
+- 💻  ArchLinux
+<img src="https://img.devrant.com/devrant/rant/r_1893446_EZDzi.jpg" alt="arch meme" />
+
 
 #### Languages, Frameworks & Tools:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
