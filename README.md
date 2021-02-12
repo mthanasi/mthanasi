@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤖  Software Engineer at Pentland Firth GmbH Munich
 - 🏐  Hobbies, Volleyball & Dancing
 - 💻  ArchLinux
-<img src="https://img.devrant.com/devrant/rant/r_1893446_EZDzi.jpg" alt="arch meme" />
+<img height="200" src="https://img.devrant.com/devrant/rant/r_1893446_EZDzi.jpg" alt="arch meme" />
 
 
 #### Languages, Frameworks & Tools:
