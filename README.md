@@ -1,4 +1,4 @@
-### Hi there, I'm Majorka 🇦🇱, a M.Sc Student at TUM 👋
+### Hi there, I'm Majorka 🇦🇱, a M.Sc Student at TUM 👋🏻
 
 <!--
 **mthanasi/mthanasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
