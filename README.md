@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### About Me:
 - 🎓  B.Sc. in Computer Science, Jacobs University Bremen
 - 🎓  M.Sc. in Informatics, Technical University of Munich
-- 🤖  Software Engineer at Pentland Firth GmbH Munich
+- 🤖  Software Engineer at Allianz Deutschland AG
 - 🏐  Hobbies, Volleyball & Dancing
 - 💻  ArchLinux
 <img height="300" src="https://img.devrant.com/devrant/rant/r_1893446_EZDzi.jpg" alt="arch meme" />
