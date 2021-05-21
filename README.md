@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 
 
 #### Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=mthanasi&show_icons=true&hide_title=true" alt="github stat" />
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mthanasi&show_icons=true&count_private=true)
+
