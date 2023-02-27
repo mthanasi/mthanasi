@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 - 💻  ArchLinux
 <img height="300" src="https://img.devrant.com/devrant/rant/r_1893446_EZDzi.jpg" alt="arch meme" />
 
-#### Languages, Frameworks & Tools:
+<!-- #### Languages, Frameworks & Tools:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
 <code><img height="20" src="https://coursor.in/wp-content/uploads/2021/01/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
 
 
-#### Github Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mthanasi&show_icons=true&count_private=true)
+<!-- #### Github Stats: -->
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mthanasi&show_icons=true&count_private=true) -->
 
